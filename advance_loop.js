@@ -26,9 +26,14 @@ obj2.id="Rohan";
 //   console.log(key);
 // }
 
-for(let key in obj)
-{
-  console.log(key);
-}
+// for(let key in obj)
+// {
+//   console.log(key);
+// }
 
-
+//for each don't take return
+// const arr = [1,2,4,5];
+// const re = arr.forEach((num)=>{
+//   return num;
+// })
+// console.log(re);//undefined
