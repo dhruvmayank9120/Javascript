@@ -1,6 +1,5 @@
 //Callback function:** A function that is passed as an argument to another function and executed later.
 
-
 // function name(callback) {
 //     console.log("hello, I am name");
 //     callback();   // calling the passed function
@@ -65,7 +64,7 @@
 
 //for each
 
-let arr = [10,20,30,40,50];
+let arr = [10, 20, 30, 40, 50];
 
 // arr.forEach(function(num){
 //     console.log(num)
